@@ -1,0 +1,149 @@
+{
+  "Hero": {
+    "title1": "Transform",
+    "title2": "Static Images",
+    "title3": "into Dynamic Animations",
+    "description": "Wan Animate is an advanced AI-powered animation tool developed by Alibaba's Tongyi Lab that transforms static images into dynamic animations with realistic movements, expressions, and gestures."
+  },
+  "SocialProof": {
+    "maker": "Powered by Alibaba's Tongyi Lab"
+  },
+  "Showcase": {
+    "title": "Animation Showcase",
+    "description": "See how creators are using Wan Animate to bring their characters to life with professional-grade animations"
+  },
+  "Feature": {
+    "title": "Powerful Features"
+  },
+  "Pricing": {
+    "title": "Pricing",
+    "title2": "Start animating for free.",
+    "description": "Wan Animate offers a free tier with core functionality. Upgrade to premium for advanced features and higher processing limits.",
+    "doYouLike": "Ready to create amazing animations?",
+    "follow": "Try Wan Animate now."
+  },
+  "Testimonials": {
+    "title": "User Testimonials",
+    "description1": "Join thousands of creators who are using Wan Animate to bring their characters to life.",
+    "description2": "See what they're saying",
+    "description3": "about their animation experience."
+  },
+  "FAQ": {
+    "title": "Frequently Asked Questions",
+    "description": "Everything you need to know about Wan Animate and AI-powered character animation."
+  },
+  "CTA": {
+    "title": "Start Creating Animations Today",
+    "description1": "Transform",
+    "description2": "your static images,",
+    "description3": "create",
+    "description4": "amazing animations, and",
+    "description5": "bring characters to life",
+    "description6": "!"
+  },
+  "CTAButton": {
+    "title": "Try Wan Animate Free"
+  },
+  "WhyChoose": {
+    "title": "Why Choose Wan Animate?",
+    "description": "Discover the unique advantages that make Wan Animate the leading choice for AI-powered character animation.",
+    "reasons": [
+      {
+        "title": "Advanced AI Technology",
+        "description": "Built on Wan2.2's 14 billion parameter MoE architecture, leveraging state-of-the-art diffusion models for superior animation quality.",
+        "features": [
+          "14B parameter MoE model",
+          "State-of-the-art diffusion",
+          "Enhanced motion understanding"
+        ]
+      },
+      {
+        "title": "Lightning Fast Processing",
+        "description": "Generate professional-grade animations in just 2-5 minutes, dramatically reducing production time from days to minutes.",
+        "features": [
+          "2-5 minute processing",
+          "Real-time progress updates",
+          "Optimized AI models"
+        ]
+      },
+      {
+        "title": "Privacy & Security First",
+        "description": "Complete privacy protection with automatic data deletion after processing. No storage or retention of user content.",
+        "features": [
+          "Auto-delete after processing",
+          "No data retention",
+          "Complete privacy protection"
+        ]
+      },
+      {
+        "title": "User-Friendly Design",
+        "description": "Intuitive interface requiring no technical expertise. Simple upload and generation process for users of all skill levels.",
+        "features": [
+          "No technical skills required",
+          "Intuitive interface",
+          "Simple upload process"
+        ]
+      },
+      {
+        "title": "Open Source & Free",
+        "description": "Completely open source with free tier available. Community-driven development with transparency and customization options.",
+        "features": [
+          "Open source technology",
+          "Free tier available",
+          "Community-driven development"
+        ]
+      },
+      {
+        "title": "Professional Quality Results",
+        "description": "Generate high-quality animations suitable for commercial use with realistic movements, expressions, and professional-grade results.",
+        "features": [
+          "Commercial use ready",
+          "Realistic movements",
+          "Professional-grade output"
+        ]
+      }
+    ],
+    "comparison": {
+      "title": "Wan Animate vs Traditional Animation",
+      "description": "See how Wan Animate compares to traditional animation methods",
+      "traditional": {
+        "title": "Traditional Animation",
+        "features": [
+          "Requires extensive technical skills",
+          "Days or weeks of production time",
+          "Expensive software and equipment",
+          "Complex learning curve",
+          "Limited accessibility"
+        ]
+      },
+      "wanAnimate": {
+        "title": "Wan Animate",
+        "features": [
+          "No technical skills required",
+          "Minutes of processing time",
+          "Free and open source",
+          "Intuitive user interface",
+          "Accessible to everyone"
+        ]
+      }
+    },
+    "stats": [
+      {
+        "value": "14B",
+        "label": "Parameters"
+      },
+      {
+        "value": "2-5",
+        "label": "Minutes Processing"
+      },
+      {
+        "value": "100%",
+        "label": "Privacy Protected"
+      },
+      {
+        "value": "Free",
+        "label": "Open Source"
+      }
+    ]
+  }
+}
