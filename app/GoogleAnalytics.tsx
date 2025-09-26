@@ -1,14 +1,26 @@
 "use client";
 
 import Script from "next/script";
-import * as gtag from "../gtag.js";
 
 
 
 const GoogleAnalytics = () => {
   return (
     <>
-      {gtag.GA_TRACKING_ID ? (
+      <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-JE6T7L1VP9"
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', 'G-JE6T7L1VP9');
+              `}
+      </Script>
+
+      {/* {gtag.GA_TRACKING_ID ? (
         <>
           <Script
             strategy="afterInteractive"
@@ -31,7 +43,7 @@ const GoogleAnalytics = () => {
         </>
       ) : (
         <></>
-      )}
+      )} */}
     </>
   );
 };

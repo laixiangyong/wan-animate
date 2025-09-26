@@ -1,4 +1,3 @@
-import BaiDuAnalytics from "@/app/BaiDuAnalytics";
 import GoogleAnalytics from "@/app/GoogleAnalytics";
 import { TailwindIndicator } from "@/components/TailwindIndicator";
 import { ThemeProvider } from "@/components/ThemeProvider";
@@ -64,12 +63,13 @@ export default async function RootLayout({
           <Analytics />
           <TailwindIndicator />
         </ThemeProvider>
-        {process.env.NODE_ENV === 'production' && (
+        <GoogleAnalytics />
+        {/* {process.env.NODE_ENV === 'production' && (
           <>
             <GoogleAnalytics />
             <BaiDuAnalytics />
           </>
-        )}
+        )} */}
       </body>
     </html>
   );
