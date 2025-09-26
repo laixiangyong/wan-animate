@@ -64,9 +64,7 @@ export default async function RootLayout({
           <Analytics />
           <TailwindIndicator />
         </ThemeProvider>
-        {process.env.NODE_ENV === "development" ? (
-          <></>
-        ) : (
+        {process.env.NODE_ENV === 'production' && (
           <>
             <GoogleAnalytics />
             <BaiDuAnalytics />
