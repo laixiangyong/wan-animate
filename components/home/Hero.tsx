@@ -1,3 +1,4 @@
+import CTAButton from "@/components/home/CTAButton";
 import { LineText } from "@/components/LineText";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
@@ -41,7 +42,7 @@ const Hero = ({
       </section>
       {/* </motion.div> */}
       <div className="flex justify-center gap-4">
-        {/* <CTAButton locale={CTALocale}></CTAButton> */}
+        <CTAButton locale={CTALocale} langName={langName} />
         <Button variant="outline">
           <Link href="https://github.com/Wan-Video/Wan2.2" className="flex items-center gap-2">
             <img

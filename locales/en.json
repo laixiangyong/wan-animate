@@ -46,7 +46,40 @@
     "description6": "!"
   },
   "CTAButton": {
-    "title": "Try Wan Animate Free"
+    "title": "Try Wan Animate Demo"
+  },
+  "Demo": {
+    "title": "Wan2.2 Animate Demo",
+    "subtitle": "Experience AI-powered animation with Wan2.2 Animate. Transform your images and videos into smooth, high-quality character animations instantly.",
+    "howToUse": "How to Use",
+    "step1": {
+      "title": "Upload Character Image",
+      "description": "Upload a character image or select one from the gallery."
+    },
+    "step2": {
+      "title": "Upload Reference Video",
+      "description": "Upload a driving video or choose a motion template."
+    },
+    "step3": {
+      "title": "Generate Animation",
+      "description": "Click Generate and wait for your animated video."
+    },
+    "tryNow": "Try Wan2.2 Animate Now",
+    "tryNowDesc": "Use the interactive demo below to create your own character animations",
+    "loading": "Loading Wan2.2 Animate Demo...",
+    "tips": "Tips for Best Results",
+    "tip1": {
+      "title": "High-Quality Images",
+      "description": "Use high-quality images with clear facial features for better animation quality"
+    },
+    "tip2": {
+      "title": "Processing Time",
+      "description": "Processing may take a few minutes depending on video length and complexity"
+    },
+    "tip3": {
+      "title": "Optimal Experience",
+      "description": "For optimal experience, use a desktop browser with a stable internet connection"
+    }
   },
   "WhyChoose": {
     "title": "Why Choose Wan Animate?",

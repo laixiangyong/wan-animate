@@ -45,7 +45,40 @@
     "description6": "¡dinero!"
   },
   "CTAButton": {
-    "title": "Obtener Plantilla"
+    "title": "Probar Demo de Wan Animate"
+  },
+  "Demo": {
+    "title": "Demo de Wan2.2 Animate",
+    "subtitle": "Experimenta la animación impulsada por IA con Wan2.2 Animate. Transforma tus imágenes y videos en animaciones de personajes suaves y de alta calidad al instante.",
+    "howToUse": "Cómo Usar",
+    "step1": {
+      "title": "Subir Imagen de Personaje",
+      "description": "Sube una imagen de personaje o selecciona una de la galería."
+    },
+    "step2": {
+      "title": "Subir Video de Referencia",
+      "description": "Sube un video de conducción o elige una plantilla de movimiento."
+    },
+    "step3": {
+      "title": "Generar Animación",
+      "description": "Haz clic en Generar y espera tu video animado."
+    },
+    "tryNow": "Prueba Wan2.2 Animate Ahora",
+    "tryNowDesc": "Usa la demo interactiva a continuación para crear tus propias animaciones de personajes",
+    "loading": "Cargando Demo de Wan2.2 Animate...",
+    "tips": "Consejos para Mejores Resultados",
+    "tip1": {
+      "title": "Imágenes de Alta Calidad",
+      "description": "Usa imágenes de alta calidad con características faciales claras para mejor calidad de animación"
+    },
+    "tip2": {
+      "title": "Tiempo de Procesamiento",
+      "description": "El procesamiento puede tomar unos minutos dependiendo de la longitud y complejidad del video"
+    },
+    "tip3": {
+      "title": "Experiencia Óptima",
+      "description": "Para una experiencia óptima, usa un navegador de escritorio con una conexión a internet estable"
+    }
   },
   "WhyChoose": {
     "title": "¿Por qué elegir Wan Animate?",

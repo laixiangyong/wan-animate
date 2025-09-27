@@ -46,7 +46,40 @@
     "description6": "！"
   },
   "CTAButton": {
-    "title": "免费试用Wan Animate"
+    "title": "试用Wan Animate演示"
+  },
+  "Demo": {
+    "title": "Wan2.2 Animate 演示",
+    "subtitle": "体验Wan2.2 Animate的AI驱动动画。将您的图像和视频瞬间转换为流畅、高质量的角色动画。",
+    "howToUse": "使用方法",
+    "step1": {
+      "title": "上传角色图像",
+      "description": "上传角色图像或从图库中选择一个。"
+    },
+    "step2": {
+      "title": "上传参考视频",
+      "description": "上传驱动视频或选择动作模板。"
+    },
+    "step3": {
+      "title": "生成动画",
+      "description": "点击生成并等待您的动画视频。"
+    },
+    "tryNow": "立即试用Wan2.2 Animate",
+    "tryNowDesc": "使用下面的交互式演示创建您自己的角色动画",
+    "loading": "正在加载Wan2.2 Animate演示...",
+    "tips": "最佳效果提示",
+    "tip1": {
+      "title": "高质量图像",
+      "description": "使用具有清晰面部特征的高质量图像以获得更好的动画质量"
+    },
+    "tip2": {
+      "title": "处理时间",
+      "description": "处理可能需要几分钟，具体取决于视频长度和复杂度"
+    },
+    "tip3": {
+      "title": "最佳体验",
+      "description": "为了获得最佳体验，请使用具有稳定网络连接的桌面浏览器"
+    }
   },
   "WhyChoose": {
     "title": "为什么选择Wan Animate？",
