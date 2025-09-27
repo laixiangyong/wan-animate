@@ -12,6 +12,7 @@ import { Analytics } from "@vercel/analytics/react";
 import { Viewport } from "next";
 import { Inter as FontSans } from "next/font/google";
 
+
 export const fontSans = FontSans({
   subsets: ["latin"],
   variable: "--font-sans",
@@ -70,6 +71,7 @@ export default async function RootLayout({
             {/* <BaiDuAnalytics /> */}
           </>
         )}
+        <Analytics />
       </body>
     </html>
   );
