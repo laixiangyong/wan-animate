@@ -1,0 +1,22 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://wan-animate.xyz
+
+# Sitemaps
+Sitemap: https://wan-animate.xyz/sitemap.xml
+
+
+# 特定搜索引擎规则
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+
+

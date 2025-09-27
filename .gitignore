@@ -78,6 +78,9 @@ web_modules/
 # dotenv environment variables file
 .env*
 
+# vercel
+.vercel
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 .parcel-cache
@@ -123,9 +126,7 @@ dist
 
 /.vuepress/dist/
 
-# sitemap
-*/sitemap*.xml
-*/robots.txt
+
 
 # ignore docker saved images
 *.tar

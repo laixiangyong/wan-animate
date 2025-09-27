@@ -63,13 +63,13 @@ export default async function RootLayout({
           <Analytics />
           <TailwindIndicator />
         </ThemeProvider>
-        <GoogleAnalytics />
-        {/* {process.env.NODE_ENV === 'production' && (
+        {/* <GoogleAnalytics /> */}
+        {process.env.NODE_ENV === 'production' && (
           <>
             <GoogleAnalytics />
-            <BaiDuAnalytics />
+            {/* <BaiDuAnalytics /> */}
           </>
-        )} */}
+        )}
       </body>
     </html>
   );
