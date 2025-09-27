@@ -17,7 +17,7 @@ const Feature = ({
       id={id}
       className="flex flex-col justify-center lg:max-w-7xl md:max-w-5xl w-[95%] mx-auto md:gap-14 pt-16"
     >
-      <h2 className="text-center text-white">
+      <h2 className="text-center text-white text-2xl sm:text-3xl">
         <RoughNotation type="highlight" show={true} color="#2563EB">
           {locale.title}
         </RoughNotation>
@@ -43,7 +43,7 @@ const Feature = ({
                 React.createElement(feature.icon, { className: "text-2xl" })
               )}
             </div>
-            <h2 className={"text-xl font-semibold mb-2"}>{feature.title}</h2>
+            <h3 className={"text-xl font-semibold mb-2"}>{feature.title}</h3>
             <p className="text-slate-700 dark:text-slate-400">
               {feature.content}
             </p>

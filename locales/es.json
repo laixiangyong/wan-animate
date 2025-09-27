@@ -1,8 +1,8 @@
 {
   "Hero": {
-    "title1": "",
-    "title2": "Página de aterrizaje",
-    "title3": "construcción rápida"
+    "title1": "Animación de Personajes IA",
+    "title2": "y Reemplazo",
+    "title3": "con Wan Animate"
   },
   "SocialProof": {
     "maker": "creadores construyen rápido"
@@ -12,7 +12,7 @@
     "description": "Únete a más de 1000 creadores que aumentan sus conversiones con nuestra plantilla de página de aterrizaje"
   },
   "Feature": {
-    "title": "Características"
+    "title": "Características Poderosas de Wan Animate"
   },
   "Pricing": {
     "title": "Precios",
@@ -27,8 +27,12 @@
     "description2": "por favor házmelo saber",
     "description3": ". Exhibiré tu tweet y recomendación aquí."
   },
+  "WhatIs": {
+    "title": "¿Qué es Wan Animate?",
+    "description": "Wan Animate es una herramienta avanzada de animación con IA desarrollada por el Laboratorio Tongyi de Alibaba que transforma imágenes estáticas en animaciones dinámicas. Permite a los usuarios dar vida a personajes con movimientos, expresiones y gestos realistas utilizando videos de referencia."
+  },
   "FAQ": {
-    "title": "Preguntas Frecuentes",
+    "title": "Preguntas Frecuentes Sobre Wan Animate",
     "description": "Aquí están algunas de las preguntas más frecuentes."
   },
   "CTA": {

@@ -1,8 +1,8 @@
 {
   "Hero": {
-    "title1": "",
-    "title2": "ランディングページ",
-    "title3": "迅速に構築",
+    "title1": "AIキャラクターアニメーション",
+    "title2": "と置換",
+    "title3": "Wan Animateで",
     "description": "無料でオープンソースかつ強力なランディングページのテンプレート。さまざまなプロジェクトに理想的で、1時間以内にランディングページを作成できます。"
   },
   "SocialProof": {
@@ -13,7 +13,7 @@
     "description": "1000人以上のクリエイターが利用中！コンバージョン率アップを実現するランディングページテンプレート"
   },
   "Feature": {
-    "title": "Feature"
+    "title": "Wan Animateの強力な機能"
   },
   "Pricing": {
     "title": "価格設定",
@@ -28,8 +28,12 @@
     "description2": "私に知らせてください",
     "description3": "。あなたのツイートと推薦をここに表示します。"
   },
+  "WhatIs": {
+    "title": "Wan Animateとは？",
+    "description": "Wan Animateは、アリババの通義ラボが開発した高度なAIアニメーションツールで、静止画像を動的アニメーションに変換します。参照動画を活用して、リアルな動き、表情、ジェスチャーでキャラクターに命を吹き込むことができます。"
+  },
   "FAQ": {
-    "title": "FAQs",
+    "title": "Wan Animateに関するよくある質問",
     "description": "最も頻繁に尋ねられる質問はこちらです。"
   },
   "CTA": {

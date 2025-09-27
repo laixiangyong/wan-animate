@@ -6,9 +6,9 @@ import { SiBuymeacoffee, SiJuejin } from "react-icons/si";
 const OPEN_SOURCE_URL = 'https://github.com/Wan-Video/Wan2.2'
 
 const baseSiteConfig = {
-  name: "Wan Animate - AI Character Animation Tool",
+  name: "Wan Animate - AI Character Animation & Replacement Tool",
   description:
-    "Transform static images into dynamic animations with Wan Animate, an advanced AI-powered tool developed by Alibaba's Tongyi Lab. Create realistic character animations and video replacements effortlessly.",
+    "Bring any character to life with Wan Animate. This AI-powered tool from Alibaba's Tongyi Lab makes animation and video role replacement effortless and realistic.",
   url: "https://wan-animate.xyz",
   canonical: "https://wan-animate.xyz",
   ogImage: "https://wan-animate.xyz/og.png",

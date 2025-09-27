@@ -3,6 +3,7 @@ import HeaderLinks from "@/components/header/HeaderLinks";
 import { LangSwitcher } from "@/components/header/LangSwitcher";
 import { siteConfig } from "@/config/site";
 import { MenuIcon } from "lucide-react";
+import Image from "next/image";
 import Link from "next/link";
 import { useParams } from "next/navigation";
 import { useState } from "react";
@@ -28,19 +29,19 @@ const Header = () => {
         <div className="flex items-center md:gap-x-12 flex-1">
           <Link
             href="/"
-            aria-label="Landing Page Boilerplate"
-            title="Landing Page Boilerplate"
-            className="flex items-center space-x-1 font-bold"
+            aria-label="Wan Animate"
+            title="Wan Animate"
+            className="flex items-center space-x-2 font-bold"
           >
-            {/* <Image
-              alt="Logo"
-              src="/logo.svg"
+            <Image
+              alt="Wan Animate Logo"
+              src="/favicon-180x180.png"
               className="w-8 h-8"
               width={32}
               height={32}
-            /> */}
+            />
             <span className="text-gray-950 dark:text-gray-300 hidden md:block">
-              {siteConfig.name}
+              Wan Animate
             </span>
           </Link>
         </div>
@@ -85,17 +86,17 @@ const Header = () => {
                   <div>
                     <Link
                       href="/"
-                      aria-label="Landing Page Boilerplate"
-                      title="Landing Page Boilerplate"
+                      aria-label="Wan Animate"
+                      title="Wan Animate"
                       className="inline-flex items-center"
                     >
-                      {/* <Image
-                        alt={siteConfig.name}
-                        src="/logo.svg"
+                      <Image
+                        alt="Wan Animate Logo"
+                        src="/favicon-32x32.png"
                         className="w-8 h-8"
                         width={32}
                         height={32}
-                      /> */}
+                      />
                       <span className="ml-2 text-xl font-bold tracking-wide text-gray-950 dark:text-gray-300">
                         {siteConfig.name}
                       </span>

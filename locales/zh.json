@@ -1,8 +1,8 @@
 {
   "Hero": {
-    "title1": "将静态图像",
-    "title2": "转换为动态动画",
-    "title3": "",
+    "title1": "AI角色动画",
+    "title2": "和替换",
+    "title3": "与Wan Animate",
     "description": "Wan Animate是由阿里巴巴通义实验室开发的先进AI动画工具，能够将静态图像转换为具有真实动作、表情和手势的动态动画。"
   },
   "SocialProof": {
@@ -13,7 +13,7 @@
     "description": "看看创作者们如何使用Wan Animate制作专业级动画，让角色栩栩如生"
   },
   "Feature": {
-    "title": "强大功能"
+    "title": "Wan Animate的强大功能"
   },
   "Pricing": {
     "title": "定价",
@@ -28,8 +28,12 @@
     "description2": "看看他们",
     "description3": "对动画体验的评价。"
   },
+  "WhatIs": {
+    "title": "什么是Wan Animate？",
+    "description": "Wan Animate是由阿里巴巴通义实验室开发的先进AI动画工具，能够将静态图像转换为动态动画。它让用户能够通过参考视频，以真实的动作、表情和手势让角色栩栩如生。"
+  },
   "FAQ": {
-    "title": "常见问题",
+    "title": "关于Wan Animate的常见问题",
     "description": "关于Wan Animate和AI角色动画的一切信息。"
   },
   "CTA": {

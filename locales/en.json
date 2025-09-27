@@ -1,8 +1,8 @@
 {
   "Hero": {
-    "title1": "Transform",
-    "title2": "Static Images",
-    "title3": "into Dynamic Animations",
+    "title1": "AI Character Animation",
+    "title2": "and Replacement",
+    "title3": "with Wan Animate",
     "description": "Wan Animate is an advanced AI-powered animation tool developed by Alibaba's Tongyi Lab that transforms static images into dynamic animations with realistic movements, expressions, and gestures."
   },
   "SocialProof": {
@@ -13,7 +13,7 @@
     "description": "See how creators are using Wan Animate to bring their characters to life with professional-grade animations"
   },
   "Feature": {
-    "title": "Powerful Features"
+    "title": "Powerful Features Of Wan Animate"
   },
   "Pricing": {
     "title": "Pricing",
@@ -28,8 +28,12 @@
     "description2": "See what they're saying",
     "description3": "about their animation experience."
   },
+  "WhatIs": {
+    "title": "What is Wan Animate?",
+    "description": "Wan Animate is an advanced AI-powered animation tool developed by Alibaba's Tongyi Lab that transforms static images into dynamic animations. It enables users to bring characters to life with realistic movements, expressions, and gestures by leveraging reference videos."
+  },
   "FAQ": {
-    "title": "Frequently Asked Questions",
+    "title": "Frequently Asked Questions About Wan Animate",
     "description": "Everything you need to know about Wan Animate and AI-powered character animation."
   },
   "CTA": {

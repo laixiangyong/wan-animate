@@ -1,8 +1,18 @@
 export const FAQS_EN = [
   {
-    title: "What is Wan Animate?",
+    title: "How does Wan Animate work?",
     content:
-      "Wan Animate is an advanced AI-powered animation tool developed by Alibaba's Tongyi Lab that transforms static images into dynamic animations. It enables users to bring characters to life with realistic movements, expressions, and gestures by leveraging reference videos.",
+      "It combines skeleton-based motion signals and facial features to animate characters or replace roles in videos while preserving identity and scene consistency.",
+  },
+  {
+    title: "What makes Wan Animate unique?",
+    content:
+      "Unlike traditional animation tools, Wan Animate unifies character animation and replacement in one model, with features like identity preservation and relighting for realism.",
+  },
+  {
+    title: "Can I replace characters in a video with Wan Animate?",
+    content:
+      "Yes. You can provide a source video and a target character image, and Wan Animate will seamlessly replace the role while maintaining background and lighting.",
   },
   {
     title: "What technical skills are required to use Wan Animate?",
@@ -62,6 +72,21 @@ export const FAQS_EN = [
 ];
 
 export const FAQS_ZH = [
+  {
+    title: "Wan Animate是如何工作的？",
+    content:
+      "它结合了基于骨骼的运动信号和面部特征来动画角色或在视频中替换角色，同时保持身份和场景一致性。",
+  },
+  {
+    title: "Wan Animate的独特之处是什么？",
+    content:
+      "与传统的动画工具不同，Wan Animate将角色动画和替换统一在一个模型中，具有身份保持和重新照明等特性，以实现真实感。",
+  },
+  {
+    title: "我可以用Wan Animate替换视频中的角色吗？",
+    content:
+      "可以。您可以提供源视频和目标角色图像，Wan Animate将无缝替换角色，同时保持背景和光照。",
+  },
   {
     title: "什么是Wan Animate？",
     content:

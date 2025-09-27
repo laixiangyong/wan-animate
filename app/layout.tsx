@@ -24,7 +24,7 @@ export const metadata = {
   keywords: siteConfig.keywords,
   authors: siteConfig.authors,
   creator: siteConfig.creator,
-  // icons: siteConfig.icons,
+  icons: siteConfig.icons,
 
   metadataBase: siteConfig.metadataBase,
   alternates: {
