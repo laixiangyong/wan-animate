@@ -16,7 +16,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: lang === 'en' ? baseUrl : `${baseUrl}/${lang}`,
       lastModified: new Date(),
       changeFrequency: 'weekly',
-      priority: 1,
+      priority: lang === 'en' ? 0.7 : 1.0,
     })
   })
 
