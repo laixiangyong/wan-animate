@@ -3,7 +3,9 @@
     "title1": "AI Character Animation",
     "title2": "and Replacement",
     "title3": "with Wan Animate",
-    "description": "Wan Animate is an advanced AI-powered animation tool developed by Alibaba's Tongyi Lab that transforms static images into dynamic animations with realistic movements, expressions, and gestures."
+    "description": "Wan Animate is an advanced AI-powered animation tool developed by Alibaba's Tongyi Lab that transforms static images into dynamic animations with realistic movements, expressions, and gestures.",
+    "demoTitle": "Experience Wan Animate Demo",
+    "demoDescription": "Try our interactive demo to see how easy it is to create stunning AI-powered animations. Upload your image and watch it come to life with realistic movements and expressions."
   },
   "SocialProof": {
     "maker": "Powered by Alibaba's Tongyi Lab"
@@ -48,6 +50,9 @@
   "CTAButton": {
     "title": "Try Wan Animate Demo"
   },
+  "Header": {
+    "demo": "Demo"
+  },
   "Demo": {
     "title": "Wan2.2 Animate Demo",
     "subtitle": "Experience AI-powered animation with Wan2.2 Animate. Transform your images and videos into smooth, high-quality character animations instantly.",
@@ -79,6 +84,22 @@
     "tip3": {
       "title": "Optimal Experience",
       "description": "For optimal experience, use a desktop browser with a stable internet connection"
+    }
+  },
+  "UseCases": {
+    "title": "What Are the Use Cases of Wan Animate?",
+    "description": "Wan Animate is widely used in diverse creative fields. For short video creators, it provides fast AI character animation to boost engagement. In film post-production, it enables seamless role replacement and scene consistency. For anime and cartoon production, it accelerates workflows by generating lifelike animations with AI-powered precision.",
+    "shortVideo": {
+      "title": "Short Video Creation with AI Character Animation",
+      "description": "Wan Animate helps short video creators turn static images into dynamic character animations in minutes. By using AI-driven motion and facial expression control, it makes content more engaging, eye-catching, and shareable across platforms like TikTok, YouTube Shorts, and Instagram Reels."
+    },
+    "filmPostProduction": {
+      "title": "Film Post-Production and Seamless Video Replacement",
+      "description": "In film and television post-production, Wan Animate enables realistic role replacement while preserving lighting, background, and scene consistency. This saves time for editors, reduces manual visual effects work, and ensures characters blend naturally into cinematic environments."
+    },
+    "animeProduction": {
+      "title": "Anime and Cartoon Production Powered by AI",
+      "description": "For anime studios and independent creators, Wan Animate accelerates the animation pipeline by generating smooth, lifelike character motions. It supports identity preservation and expressive facial details, helping bring 2D or 3D characters to life more efficiently without sacrificing artistic quality."
     }
   },
   "WhyChoose": {

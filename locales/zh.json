@@ -3,7 +3,9 @@
     "title1": "AI角色动画",
     "title2": "和替换",
     "title3": "与Wan Animate",
-    "description": "Wan Animate是由阿里巴巴通义实验室开发的先进AI动画工具，能够将静态图像转换为具有真实动作、表情和手势的动态动画。"
+    "description": "Wan Animate是由阿里巴巴通义实验室开发的先进AI动画工具，能够将静态图像转换为具有真实动作、表情和手势的动态动画。",
+    "demoTitle": "体验Wan Animate演示",
+    "demoDescription": "尝试我们的交互式演示，看看创建令人惊叹的AI驱动动画是多么容易。上传您的图像，观看它通过逼真的动作和表情变得生动起来。"
   },
   "SocialProof": {
     "maker": "由阿里巴巴通义实验室提供技术支持"
@@ -48,6 +50,9 @@
   "CTAButton": {
     "title": "试用Wan Animate演示"
   },
+  "Header": {
+    "demo": "演示"
+  },
   "Demo": {
     "title": "Wan2.2 Animate 演示",
     "subtitle": "体验Wan2.2 Animate的AI驱动动画。将您的图像和视频瞬间转换为流畅、高质量的角色动画。",
@@ -79,6 +84,22 @@
     "tip3": {
       "title": "最佳体验",
       "description": "为了获得最佳体验，请使用具有稳定网络连接的桌面浏览器"
+    }
+  },
+  "UseCases": {
+    "title": "Wan Animate的使用场景有哪些？",
+    "description": "Wan Animate广泛应用于各种创意领域。对于短视频创作者，它提供快速的AI角色动画来提升参与度。在电影后期制作中，它实现无缝角色替换和场景一致性。对于动漫和卡通制作，它通过AI驱动的精确度生成逼真的动画来加速工作流程。",
+    "shortVideo": {
+      "title": "AI角色动画的短视频创作",
+      "description": "Wan Animate帮助短视频创作者在几分钟内将静态图像转换为动态角色动画。通过使用AI驱动的动作和面部表情控制，它使内容更具吸引力、引人注目，并在TikTok、YouTube Shorts和Instagram Reels等平台上易于分享。"
+    },
+    "filmPostProduction": {
+      "title": "电影后期制作和无缝视频替换",
+      "description": "在电影和电视后期制作中，Wan Animate实现逼真的角色替换，同时保持照明、背景和场景一致性。这为编辑节省时间，减少手动视觉效果工作，并确保角色自然地融入电影环境。"
+    },
+    "animeProduction": {
+      "title": "AI驱动的动漫和卡通制作",
+      "description": "对于动漫工作室和独立创作者，Wan Animate通过生成流畅、逼真的角色动作来加速动画制作流程。它支持身份保持和富有表现力的面部细节，帮助更高效地将2D或3D角色带入生活，而不牺牲艺术质量。"
     }
   },
   "WhyChoose": {

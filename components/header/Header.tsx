@@ -2,26 +2,43 @@
 import HeaderLinks from "@/components/header/HeaderLinks";
 import { LangSwitcher } from "@/components/header/LangSwitcher";
 import { siteConfig } from "@/config/site";
+import { getDictionary } from "@/lib/i18n";
 import { MenuIcon } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { useParams } from "next/navigation";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { CgClose } from "react-icons/cg";
 import { ThemedButton } from "../ThemedButton";
-
-const links = [
-  { label: "Features", href: "#Features" },
-  // { label: "Pricing", href: "#Pricing" },
-  // { label: "Testimonials", href: "#Testimonials" },
-  { label: "FAQ", href: "#FAQ" },
-];
 
 const Header = () => {
   const params = useParams();
   const lang = params.lang;
-
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [dict, setDict] = useState<any>(null);
+
+  useEffect(() => {
+    const loadDict = async () => {
+      const dictionary = await getDictionary(lang as string);
+      setDict(dictionary);
+    };
+    loadDict();
+  }, [lang]);
+
+  const getDemoHref = () => {
+    if (!lang) {
+      return "/en/wan-animate-demo";
+    }
+    return `/${lang}/wan-animate-demo`;
+  };
+
+  const links = [
+    { label: "Features", href: "#Features" },
+    // { label: "Pricing", href: "#Pricing" },
+    // { label: "Testimonials", href: "#Testimonials" },
+    { label: "FAQ", href: "#FAQ" },
+    { label: dict?.Header?.demo || "Demo", href: getDemoHref() },
+  ];
   return (
     <header className="py-10 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
       <nav className="relative z-50 flex justify-between items-center">
@@ -51,7 +68,7 @@ const Header = () => {
           {links.map((link) => (
             <li key={link.label}>
               <Link
-                href={`/${lang === "en" ? "" : lang}${link.href}`}
+                href={link.href.startsWith('#') ? link.href : link.href}
                 aria-label={link.label}
                 title={link.label}
                 className="tracking-wide transition-colors duration-200 font-normal"

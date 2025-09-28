@@ -99,6 +99,24 @@ const WhyChooseWanAnimate = ({ locale }: { locale: any }) => {
               </ul>
             </div>
           </div>
+
+          {/* Comparison Video */}
+          <div className="mt-8 flex justify-center">
+            <div className="w-full max-w-4xl">
+              <video
+                className="w-full max-h-96 rounded-lg shadow-lg object-contain"
+                controls
+                preload="metadata"
+                playsInline
+                muted
+                loop
+                suppressHydrationWarning
+              >
+                <source src="/video/comp3.mp4" type="video/mp4" />
+                您的浏览器不支持视频播放。
+              </video>
+            </div>
+          </div>
         </div>
 
         {/* Stats Section */}

@@ -2,7 +2,10 @@
   "Hero": {
     "title1": "Animación de Personajes IA",
     "title2": "y Reemplazo",
-    "title3": "con Wan Animate"
+    "title3": "con Wan Animate",
+    "description": "Wan Animate es una herramienta de animación avanzada impulsada por IA desarrollada por el Laboratorio Tongyi de Alibaba que transforma imágenes estáticas en animaciones dinámicas con movimientos, expresiones y gestos realistas.",
+    "demoTitle": "Experimenta la Demo de Wan Animate",
+    "demoDescription": "Prueba nuestra demo interactiva para ver qué tan fácil es crear animaciones impresionantes impulsadas por IA. Sube tu imagen y observa cómo cobra vida con movimientos y expresiones realistas."
   },
   "SocialProof": {
     "maker": "creadores construyen rápido"
@@ -47,6 +50,9 @@
   "CTAButton": {
     "title": "Probar Demo de Wan Animate"
   },
+  "Header": {
+    "demo": "Demo"
+  },
   "Demo": {
     "title": "Demo de Wan2.2 Animate",
     "subtitle": "Experimenta la animación impulsada por IA con Wan2.2 Animate. Transforma tus imágenes y videos en animaciones de personajes suaves y de alta calidad al instante.",
@@ -78,6 +84,22 @@
     "tip3": {
       "title": "Experiencia Óptima",
       "description": "Para una experiencia óptima, usa un navegador de escritorio con una conexión a internet estable"
+    }
+  },
+  "UseCases": {
+    "title": "¿Cuáles son los casos de uso de Wan Animate?",
+    "description": "Wan Animate se usa ampliamente en diversos campos creativos. Para creadores de videos cortos, proporciona animación rápida de personajes con IA para aumentar el compromiso. En postproducción cinematográfica, permite reemplazo de roles sin problemas y consistencia de escenas. Para producción de anime y caricaturas, acelera los flujos de trabajo generando animaciones realistas con precisión impulsada por IA.",
+    "shortVideo": {
+      "title": "Creación de Videos Cortos con Animación de Personajes IA",
+      "description": "Wan Animate ayuda a los creadores de videos cortos a convertir imágenes estáticas en animaciones de personajes dinámicas en minutos. Al usar control de movimiento y expresiones faciales impulsado por IA, hace que el contenido sea más atractivo, llamativo y compartible en plataformas como TikTok, YouTube Shorts e Instagram Reels."
+    },
+    "filmPostProduction": {
+      "title": "Postproducción Cinematográfica y Reemplazo de Video Sin Problemas",
+      "description": "En postproducción cinematográfica y televisiva, Wan Animate permite reemplazo de roles realista mientras preserva la iluminación, fondo y consistencia de escenas. Esto ahorra tiempo a los editores, reduce el trabajo manual de efectos visuales y asegura que los personajes se integren naturalmente en entornos cinematográficos."
+    },
+    "animeProduction": {
+      "title": "Producción de Anime y Caricaturas Impulsada por IA",
+      "description": "Para estudios de anime y creadores independientes, Wan Animate acelera la tubería de animación generando movimientos de personajes suaves y realistas. Soporta preservación de identidad y detalles faciales expresivos, ayudando a dar vida a personajes 2D o 3D de manera más eficiente sin sacrificar la calidad artística."
     }
   },
   "WhyChoose": {

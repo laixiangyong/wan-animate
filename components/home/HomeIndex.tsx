@@ -5,6 +5,7 @@ import Hero from "@/components/home/Hero";
 // import Pricing from "@/components/home/Pricing";
 import SocialProof from "@/components/home/SocialProof";
 // import Testimonials from "@/components/home/Testimonials";
+import UseCases from "@/components/home/UseCases";
 import WhatIsWanAnimate from "@/components/home/WhatIsWanAnimate";
 import WhyChooseWanAnimate from "@/components/home/WhyChooseWanAnimate";
 import { defaultLocale, getDictionary } from "@/lib/i18n";
@@ -29,6 +30,9 @@ export default async function HomeIndex({ lang }: { lang: string }) {
 
       {/* USP (Unique Selling Proposition) */}
       <Feature id="Features" locale={dict.Feature} langName={langName} />
+
+      {/* Use Cases Section */}
+      <UseCases locale={dict.UseCases} />
 
       {/* Demo Section */}
       {/* <WanAnimateDemo /> */}

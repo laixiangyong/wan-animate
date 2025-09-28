@@ -5,6 +5,7 @@ const nextConfig = {
   // SEO Optimization
   trailingSlash: false,
 
+
   // Headers for better SEO
   async headers() {
     return [
@@ -48,6 +49,19 @@ const nextConfig = {
           {
             key: 'Cache-Control',
             value: 'public, max-age=86400',
+          },
+        ],
+      },
+      {
+        source: '/video/(.*)',
+        headers: [
+          {
+            key: 'Content-Type',
+            value: 'video/mp4',
+          },
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000',
           },
         ],
       },

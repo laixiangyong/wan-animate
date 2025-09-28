@@ -5,6 +5,11 @@ import { NextRequest } from "next/server";
 export function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
+  // Skip middleware for video files and other static assets
+  if (pathname.startsWith('/video/') || pathname.match(/\.(mp4|webm|ogg|avi|mov)$/)) {
+    return;
+  }
+
   const isExit = locales.some(
     (locale) => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`
   );
@@ -17,6 +22,6 @@ export function middleware(request: NextRequest) {
 
 export const config = {
   matcher: [
-    '/((?!api|_next/static|_next/image|terms|.*\\.(?:txt|xml|ico|png|jpg|jpeg|svg|gif|webp|js|css|woff|woff2|ttf|eot)).*)'
+    '/((?!api|_next/static|_next/image|terms|video|.*\\.(?:txt|xml|ico|png|jpg|jpeg|svg|gif|webp|js|css|woff|woff2|ttf|eot|mp4|webm|ogg)).*)'
   ]
 };

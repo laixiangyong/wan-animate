@@ -54,6 +54,39 @@ const Hero = ({
           </Link>
         </Button>
       </div>
+
+      {/* Demo Description and Video */}
+      <div className="mt-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
+          {/* Left side - Text content */}
+          <div className="order-2 lg:order-1">
+            <h2 className="text-3xl font-bold text-slate-900 dark:text-white mb-4">
+              {locale.demoTitle || "Experience Wan Animate Demo"}
+            </h2>
+            <p className="text-lg text-slate-600 dark:text-slate-300">
+              {locale.demoDescription || "Try our interactive demo to see how easy it is to create stunning AI-powered animations. Upload your image and watch it come to life with realistic movements and expressions."}
+            </p>
+          </div>
+
+          {/* Right side - Video */}
+          <div className="order-1 lg:order-2">
+            <div className="w-full max-w-md mx-auto">
+              <video
+                className="w-full max-h-64 rounded-lg shadow-lg object-contain"
+                controls
+                preload="metadata"
+                playsInline
+                muted
+                loop
+                suppressHydrationWarning
+              >
+                <source src="/video/res12.mp4" type="video/mp4" />
+                您的浏览器不支持视频播放。
+              </video>
+            </div>
+          </div>
+        </div>
+      </div>
     </>
   );
 };
