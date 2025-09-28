@@ -11,8 +11,34 @@
     "maker": "由阿里巴巴通义实验室提供技术支持"
   },
   "Showcase": {
-    "title": "动画展示",
-    "description": "看看创作者们如何使用Wan Animate制作专业级动画，让角色栩栩如生"
+    "title": "如何使用Wan Animate",
+    "description": "按照以下简单步骤，使用我们的AI驱动工具将静态图像转换为动态动画。",
+    "step1": {
+      "title": "上传角色图像",
+      "description": "上传高质量的角色图像，面部特征清晰，以获得更好的动画效果。"
+    },
+    "step2": {
+      "title": "上传参考视频",
+      "description": "上传驱动视频或选择动作模板来指导动画制作。"
+    },
+    "step3": {
+      "title": "生成动画",
+      "description": "点击生成，观看AI将您的静态图像转换为动态动画。"
+    },
+    "features": {
+      "fastProcessing": {
+        "title": "快速处理",
+        "description": "使用我们优化的AI模型，仅需2-5分钟即可生成动画。"
+      },
+      "highQuality": {
+        "title": "高质量",
+        "description": "专业级效果，具有逼真的动作和表情。"
+      },
+      "privacyFirst": {
+        "title": "隐私优先",
+        "description": "处理完成后，您的图像会自动删除，确保完全隐私。"
+      }
+    }
   },
   "Feature": {
     "title": "Wan Animate的强大功能"

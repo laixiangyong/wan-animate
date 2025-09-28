@@ -11,8 +11,34 @@
     "maker": "creadores construyen rápido"
   },
   "Showcase": {
-    "title": "Escaparate",
-    "description": "Únete a más de 1000 creadores que aumentan sus conversiones con nuestra plantilla de página de aterrizaje"
+    "title": "Cómo Usar Wan Animate",
+    "description": "Sigue estos simples pasos para transformar tus imágenes estáticas en animaciones dinámicas con nuestra herramienta impulsada por IA.",
+    "step1": {
+      "title": "Subir Imagen del Personaje",
+      "description": "Sube una imagen de personaje de alta calidad con características faciales claras para mejores resultados de animación."
+    },
+    "step2": {
+      "title": "Subir Video de Referencia",
+      "description": "Sube un video de conducción o elige una plantilla de movimiento para guiar la animación."
+    },
+    "step3": {
+      "title": "Generar Animación",
+      "description": "Haz clic en generar y observa cómo la IA transforma tu imagen estática en una animación dinámica."
+    },
+    "features": {
+      "fastProcessing": {
+        "title": "Procesamiento Rápido",
+        "description": "Genera animaciones en solo 2-5 minutos con nuestros modelos de IA optimizados."
+      },
+      "highQuality": {
+        "title": "Alta Calidad",
+        "description": "Resultados de nivel profesional con movimientos y expresiones realistas."
+      },
+      "privacyFirst": {
+        "title": "Privacidad Primero",
+        "description": "Tus imágenes se eliminan automáticamente después del procesamiento para una privacidad completa."
+      }
+    }
   },
   "Feature": {
     "title": "Características Poderosas de Wan Animate"

@@ -6,6 +6,7 @@ import Hero from "@/components/home/Hero";
 import SocialProof from "@/components/home/SocialProof";
 // import Testimonials from "@/components/home/Testimonials";
 import UseCases from "@/components/home/UseCases";
+import WanAnimateShowcase from "@/components/home/WanAnimateShowcase";
 import WhatIsWanAnimate from "@/components/home/WhatIsWanAnimate";
 import WhoUsesWanAnimate from "@/components/home/WhoUsesWanAnimate";
 import WhyChooseWanAnimate from "@/components/home/WhyChooseWanAnimate";
@@ -36,7 +37,7 @@ export default async function HomeIndex({ lang }: { lang: string }) {
       <UseCases locale={dict.UseCases} />
 
       {/* Demo Section */}
-      {/* <WanAnimateDemo /> */}
+      <WanAnimateShowcase langName={langName} locale={dict.Showcase} />
 
       {/* Who Uses Wan Animate */}
       <WhoUsesWanAnimate locale={dict.WhoUses} />

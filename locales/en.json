@@ -11,8 +11,34 @@
     "maker": "Powered by Alibaba's Tongyi Lab"
   },
   "Showcase": {
-    "title": "Animation Showcase",
-    "description": "See how creators are using Wan Animate to bring their characters to life with professional-grade animations"
+    "title": "How to Use Wan Animate",
+    "description": "Follow these simple steps to transform your static images into dynamic animations with our AI-powered tool.",
+    "step1": {
+      "title": "Upload Character Image",
+      "description": "Upload a high-quality character image with clear facial features for better animation results."
+    },
+    "step2": {
+      "title": "Upload Reference Video",
+      "description": "Upload a driving video or choose a motion template to guide the animation."
+    },
+    "step3": {
+      "title": "Generate Animation",
+      "description": "Click generate and watch as AI transforms your static image into a dynamic animation."
+    },
+    "features": {
+      "fastProcessing": {
+        "title": "Fast Processing",
+        "description": "Generate animations in just 2-5 minutes with our optimized AI models."
+      },
+      "highQuality": {
+        "title": "High Quality",
+        "description": "Professional-grade results with realistic movements and expressions."
+      },
+      "privacyFirst": {
+        "title": "Privacy First",
+        "description": "Your images are automatically deleted after processing for complete privacy."
+      }
+    }
   },
   "Feature": {
     "title": "Powerful Features Of Wan Animate"
