@@ -102,6 +102,60 @@
       "description": "アニメスタジオと独立クリエイターにとって、Wan Animateは滑らかでリアルなキャラクターの動きを生成することでアニメーションパイプラインを加速します。アイデンティティの保持と表現豊かな顔の詳細をサポートし、芸術的品質を犠牲にすることなく2Dまたは3Dキャラクターをより効率的に命を吹き込むのを支援します。"
     }
   },
+  "WhoUses": {
+    "title": "誰がWan Animateを使用しているか？",
+    "description": "独立クリエイターやYouTubeチュートリアルチャンネルから研究ラボ、アニメスタジオ、Reddit、Twitter/X、Instagram、Hugging Faceの活発なコミュニティまで、Wan Animateは幅広いユーザーに採用されています。人気の使用例には、ショートフォームソーシャル動画、ComfyUIワークフローデモ、公式Hugging Face Spaces、スタジオレベルのプロトタイプが含まれ、神経モデルを使ったキャラクターアニメーションを探求するクリエイター、教育者、AI実践者にとっての定番ツールとなっています。",
+    "cards": [
+      {
+        "id": "alibaba1",
+        "title": "Alibaba Cloud AI（公式）",
+        "platform": "Twitter/X",
+        "description": "公式Alibaba Cloud AIアカウント、高い権威性でWan Animateのリリースを発表。",
+        "author": "Alibaba Cloud AI",
+        "followers": "50万+"
+      },
+      {
+        "id": "sirio1",
+        "title": "Sirio（YouTubeクリエイター）",
+        "platform": "YouTube",
+        "description": "YouTubeで人気のAIチュートリアルクリエイター、Wan Animateの詳細デモを制作。",
+        "author": "Sirio",
+        "followers": "12万+登録者"
+      },
+      {
+        "id": "gadgetify1",
+        "title": "Gadgetify（テックブロガー）",
+        "platform": "Twitter/X",
+        "description": "有名なテックブロガー、TwitterでWan Animateをシェア、テックメディア分野で強い影響力。",
+        "author": "Gadgetify",
+        "followers": "20万+"
+      },
+      {
+        "id": "huggingface1",
+        "title": "Hugging Face – Wan-AIチーム",
+        "platform": "Hugging Face",
+        "description": "Wan Animateの公式Hugging Face Space、開発者や研究者に広く使用されています。",
+        "author": "Wan-AIチーム",
+        "followers": "数万人"
+      },
+      {
+        "id": "reddit1",
+        "title": "r/StableDiffusion（Redditコミュニティ）",
+        "platform": "Reddit",
+        "description": "100万以上のメンバーを持つ最大のAIアートコミュニティの一つ、Wan Animateについて活発に議論。",
+        "author": "r/StableDiffusion",
+        "followers": "100万+メンバー"
+      },
+      {
+        "id": "facebook1",
+        "title": "AIテックメディアページ（Facebook）",
+        "platform": "Facebook",
+        "description": "テクノロジーに特化したメディアページ、Facebookでより広いオーディエンスにWan Animateをカバー。",
+        "author": "AIテックメディアページ",
+        "followers": "5万+"
+      }
+    ]
+  },
   "WhyChoose": {
     "title": "なぜWan Animateを選ぶのか？",
     "description": "Wan AnimateがAIキャラクターアニメーションの第一選択肢となる独自の利点を発見してください。",

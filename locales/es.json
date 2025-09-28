@@ -102,6 +102,60 @@
       "description": "Para estudios de anime y creadores independientes, Wan Animate acelera la tubería de animación generando movimientos de personajes suaves y realistas. Soporta preservación de identidad y detalles faciales expresivos, ayudando a dar vida a personajes 2D o 3D de manera más eficiente sin sacrificar la calidad artística."
     }
   },
+  "WhoUses": {
+    "title": "¿Quién está usando Wan Animate?",
+    "description": "Desde creadores independientes y canales de tutoriales de YouTube hasta laboratorios de investigación, estudios de animación y comunidades activas en Reddit, Twitter/X, Instagram y Hugging Face, Wan Animate está siendo adoptado por una amplia gama de usuarios. Los casos de uso populares incluyen videos cortos para redes sociales, demostraciones de flujos de trabajo de ComfyUI, espacios oficiales de Hugging Face y pruebas de concepto a nivel de estudio, convirtiéndolo en una herramienta de referencia para creadores, educadores y profesionales de IA que exploran la animación de personajes con modelos neuronales.",
+    "cards": [
+      {
+        "id": "alibaba1",
+        "title": "Alibaba Cloud AI (Oficial)",
+        "platform": "Twitter/X",
+        "description": "Cuenta oficial de Alibaba Cloud AI, anunció el lanzamiento de Wan Animate con alta autoridad.",
+        "author": "Alibaba Cloud AI",
+        "followers": "500K+"
+      },
+      {
+        "id": "sirio1",
+        "title": "Sirio (Creador de YouTube)",
+        "platform": "YouTube",
+        "description": "Popular creador de tutoriales de IA en YouTube, produjo una demostración detallada de Wan Animate.",
+        "author": "Sirio",
+        "followers": "120K+ suscriptores"
+      },
+      {
+        "id": "gadgetify1",
+        "title": "Gadgetify (Bloguero de Tecnología)",
+        "platform": "Twitter/X",
+        "description": "Bloguero de tecnología conocido, compartió Wan Animate en Twitter, fuerte influencia en el espacio de medios tecnológicos.",
+        "author": "Gadgetify",
+        "followers": "200K+"
+      },
+      {
+        "id": "huggingface1",
+        "title": "Hugging Face – Equipo Wan-AI",
+        "platform": "Hugging Face",
+        "description": "Espacio oficial de Hugging Face para Wan Animate, ampliamente utilizado por desarrolladores e investigadores.",
+        "author": "Equipo Wan-AI",
+        "followers": "Decenas de miles"
+      },
+      {
+        "id": "reddit1",
+        "title": "r/StableDiffusion (Comunidad Reddit)",
+        "platform": "Reddit",
+        "description": "Una de las comunidades de arte de IA más grandes con más de 1M de miembros, discutiendo activamente Wan Animate.",
+        "author": "r/StableDiffusion",
+        "followers": "1M+ miembros"
+      },
+      {
+        "id": "facebook1",
+        "title": "Página de Medios de Tecnología IA (Facebook)",
+        "platform": "Facebook",
+        "description": "Página de medios enfocada en tecnología, cubriendo Wan Animate para una audiencia más amplia en Facebook.",
+        "author": "Página de Medios de Tecnología IA",
+        "followers": "50K+"
+      }
+    ]
+  },
   "WhyChoose": {
     "title": "¿Por qué elegir Wan Animate?",
     "description": "Descubre las ventajas únicas que hacen de Wan Animate la opción líder para animación de personajes con IA.",

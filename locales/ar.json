@@ -102,6 +102,60 @@
       "description": "لستوديوهات الأنمي والمبدعين المستقلين، يسرع Wan Animate خط أنابيب الرسوم المتحركة من خلال توليد حركات شخصيات سلسة وواقعية. يدعم الحفاظ على الهوية وتفاصيل الوجه التعبيرية، مما يساعد على إحياء الشخصيات ثنائية أو ثلاثية الأبعاد بكفاءة أكبر دون التضحية بالجودة الفنية."
     }
   },
+  "WhoUses": {
+    "title": "من يستخدم Wan Animate؟",
+    "description": "من المبدعين المستقلين وقنوات اليوتيوب التعليمية إلى مختبرات البحث واستوديوهات الرسوم المتحركة والمجتمعات النشطة على Reddit وTwitter/X وInstagram وHugging Face، يتم اعتماد Wan Animate من قبل مجموعة واسعة من المستخدمين. تشمل حالات الاستخدام الشائعة مقاطع الفيديو القصيرة للشبكات الاجتماعية وعروض سير عمل ComfyUI والمساحات الرسمية لـ Hugging Face ونماذج أولية على مستوى الاستوديو، مما يجعله أداة أساسية للمبدعين والمعلمين وممارسي الذكاء الاصطناعي الذين يستكشفون رسوم الشخصيات المتحركة بالنماذج العصبية.",
+    "cards": [
+      {
+        "id": "alibaba1",
+        "title": "Alibaba Cloud AI (الرسمي)",
+        "platform": "Twitter/X",
+        "description": "حساب Alibaba Cloud AI الرسمي، أعلن عن إصدار Wan Animate بسلطة عالية.",
+        "author": "Alibaba Cloud AI",
+        "followers": "500K+"
+      },
+      {
+        "id": "sirio1",
+        "title": "Sirio (منشئ محتوى يوتيوب)",
+        "platform": "YouTube",
+        "description": "منشئ محتوى تعليمي للذكاء الاصطناعي شائع على يوتيوب، أنتج عرضًا توضيحيًا مفصلاً لـ Wan Animate.",
+        "author": "Sirio",
+        "followers": "120K+ مشترك"
+      },
+      {
+        "id": "gadgetify1",
+        "title": "Gadgetify (مدون تقني)",
+        "platform": "Twitter/X",
+        "description": "مدون تقني معروف، شارك Wan Animate على تويتر، تأثير قوي في مجال الإعلام التقني.",
+        "author": "Gadgetify",
+        "followers": "200K+"
+      },
+      {
+        "id": "huggingface1",
+        "title": "Hugging Face – فريق Wan-AI",
+        "platform": "Hugging Face",
+        "description": "مساحة Hugging Face الرسمية لـ Wan Animate، مستخدمة على نطاق واسع من قبل المطورين والباحثين.",
+        "author": "فريق Wan-AI",
+        "followers": "عشرات الآلاف"
+      },
+      {
+        "id": "reddit1",
+        "title": "r/StableDiffusion (مجتمع Reddit)",
+        "platform": "Reddit",
+        "description": "واحدة من أكبر مجتمعات فن الذكاء الاصطناعي مع أكثر من مليون عضو، تناقش بنشاط Wan Animate.",
+        "author": "r/StableDiffusion",
+        "followers": "1M+ عضو"
+      },
+      {
+        "id": "facebook1",
+        "title": "صفحة إعلام التقنية الذكية (Facebook)",
+        "platform": "Facebook",
+        "description": "صفحة إعلامية تركز على التقنية، تغطي Wan Animate لجمهور أوسع على Facebook.",
+        "author": "صفحة إعلام التقنية الذكية",
+        "followers": "50K+"
+      }
+    ]
+  },
   "WhyChoose": {
     "title": "لماذا تختار Wan Animate؟",
     "description": "اكتشف المزايا الفريدة التي تجعل Wan Animate الخيار الرائد لرسوم الشخصيات المتحركة بالذكاء الاصطناعي.",

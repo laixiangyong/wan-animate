@@ -102,6 +102,60 @@
       "description": "对于动漫工作室和独立创作者，Wan Animate通过生成流畅、逼真的角色动作来加速动画制作流程。它支持身份保持和富有表现力的面部细节，帮助更高效地将2D或3D角色带入生活，而不牺牲艺术质量。"
     }
   },
+  "WhoUses": {
+    "title": "谁在使用Wan Animate？",
+    "description": "从独立创作者和YouTube教程频道到研究实验室、动画工作室，以及Reddit、Twitter/X、Instagram和Hugging Face上的活跃社区，Wan Animate正在被广泛的用户群体采用。热门用例包括短视频社交媒体内容、ComfyUI工作流演示、官方Hugging Face Spaces和工作室级别的概念验证——使其成为创作者、教育工作者和探索神经模型角色动画的AI从业者的首选工具。",
+    "cards": [
+      {
+        "id": "alibaba1",
+        "title": "阿里云AI（官方）",
+        "platform": "Twitter/X",
+        "description": "官方阿里云AI账号，以高权威性宣布了Wan Animate的发布。",
+        "author": "阿里云AI",
+        "followers": "50万+"
+      },
+      {
+        "id": "sirio1",
+        "title": "Sirio（YouTube创作者）",
+        "platform": "YouTube",
+        "description": "YouTube上受欢迎的AI教程创作者，制作了Wan Animate的详细演示。",
+        "author": "Sirio",
+        "followers": "12万+订阅者"
+      },
+      {
+        "id": "gadgetify1",
+        "title": "Gadgetify（科技博主）",
+        "platform": "Twitter/X",
+        "description": "知名科技博主，在Twitter上分享了Wan Animate，在科技媒体领域有很强的影响力。",
+        "author": "Gadgetify",
+        "followers": "20万+"
+      },
+      {
+        "id": "huggingface1",
+        "title": "Hugging Face – Wan-AI团队",
+        "platform": "Hugging Face",
+        "description": "Wan Animate的官方Hugging Face Space，被开发者和研究人员广泛使用。",
+        "author": "Wan-AI团队",
+        "followers": "数万用户"
+      },
+      {
+        "id": "reddit1",
+        "title": "r/StableDiffusion（Reddit社区）",
+        "platform": "Reddit",
+        "description": "最大的AI艺术社区之一，拥有超过100万成员，积极讨论Wan Animate。",
+        "author": "r/StableDiffusion",
+        "followers": "100万+成员"
+      },
+      {
+        "id": "facebook1",
+        "title": "AI科技媒体页面（Facebook）",
+        "platform": "Facebook",
+        "description": "专注于科技的媒体页面，在Facebook上为更广泛的受众报道Wan Animate。",
+        "author": "AI科技媒体页面",
+        "followers": "5万+"
+      }
+    ]
+  },
   "WhyChoose": {
     "title": "为什么选择Wan Animate？",
     "description": "发现让Wan Animate成为AI角色动画首选工具的独特优势。",

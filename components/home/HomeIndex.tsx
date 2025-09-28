@@ -7,6 +7,7 @@ import SocialProof from "@/components/home/SocialProof";
 // import Testimonials from "@/components/home/Testimonials";
 import UseCases from "@/components/home/UseCases";
 import WhatIsWanAnimate from "@/components/home/WhatIsWanAnimate";
+import WhoUsesWanAnimate from "@/components/home/WhoUsesWanAnimate";
 import WhyChooseWanAnimate from "@/components/home/WhyChooseWanAnimate";
 import { defaultLocale, getDictionary } from "@/lib/i18n";
 
@@ -36,6 +37,9 @@ export default async function HomeIndex({ lang }: { lang: string }) {
 
       {/* Demo Section */}
       {/* <WanAnimateDemo /> */}
+
+      {/* Who Uses Wan Animate */}
+      <WhoUsesWanAnimate locale={dict.WhoUses} />
 
       {/* Why Choose Wan Animate */}
       <WhyChooseWanAnimate locale={dict.WhyChoose} />
