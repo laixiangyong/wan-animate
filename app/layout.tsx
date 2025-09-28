@@ -1,4 +1,5 @@
 import GoogleAnalytics from "@/app/GoogleAnalytics";
+import SEOHead from "@/components/SEOHead";
 import { TailwindIndicator } from "@/components/TailwindIndicator";
 import { ThemeProvider } from "@/components/ThemeProvider";
 import Footer from "@/components/footer/Footer";
@@ -46,7 +47,9 @@ export default async function RootLayout({
 }) {
   return (
     <html lang={lang || defaultLocale} suppressHydrationWarning>
-      <head />
+      <head>
+        <SEOHead lang={lang || defaultLocale} />
+      </head>
       <body
         className={cn(
           "min-h-screen bg-background font-sans antialiased",
