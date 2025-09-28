@@ -99,8 +99,8 @@ const WanAnimateShowcase = ({ langName, locale }: { langName?: string; locale: a
                 <CTAButton locale={mockLocale} langName={langName} />
               </div>
               <Button
-                variant="outline"
-                className="flex-1"
+                variant="default"
+                className="flex-1 bg-gray-500 hover:bg-gray-600 text-white"
                 onClick={() => {
                   navigator.clipboard.writeText('http://wan-animate.xyz/en/wan-animate-demo');
                   // 可以添加一个提示消息
