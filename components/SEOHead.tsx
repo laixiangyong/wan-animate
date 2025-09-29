@@ -35,6 +35,8 @@ export default function SEOHead({
       <meta name="bingbot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
       {/* 百度 */}
       <meta name="baidu-site-verification" content="codeva-gIv3z3Qrmn" />
+      {/* bing */}
+      <meta name="msvalidate.01" content="CEBCDA6DC998D929091983233F39A2CE" />
 
       {/* Open Graph additional tags */}
       <meta property="og:type" content="website" />
