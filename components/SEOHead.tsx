@@ -33,6 +33,8 @@ export default function SEOHead({
       <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
       <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
       <meta name="bingbot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+      {/* 百度 */}
+      <meta name="baidu-site-verification" content="codeva-gIv3z3Qrmn" />
 
       {/* Open Graph additional tags */}
       <meta property="og:type" content="website" />
